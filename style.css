@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    width: 300px;
+}
+
+.text {
+    margin-top: 15px;
+    font-size: 32px;
+    font-weight: bold;
+}
